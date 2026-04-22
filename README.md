@@ -1,11 +1,11 @@
-# FocusMate 🚀
+# FocusMate 
 ### *A Mediterranean-Inspired Cinematic Productivity Hub*
 
 FocusMate is a high-performance daily planner built with the **MERN** stack. It blends a sophisticated **Amalfi Tile** aesthetic with spring-physics transitions to create a focused, clutter-free environment for deep work.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 * **Cinematic UI/UX**: Built with **Framer Motion**, featuring 4XL rounded corners and bento-grid layouts.
 * **Dynamic Calendar Strip**: A smart date-scrolling system that tracks past history and future goals.
@@ -15,7 +15,7 @@ FocusMate is a high-performance daily planner built with the **MERN** stack. It 
 
 ---
 
-## 🎨 Design Language
+## Design Language
 
 Inspired by the Amalfi Coast, the UI is designed to reduce cognitive load:
 
@@ -26,14 +26,14 @@ Inspired by the Amalfi Coast, the UI is designed to reduce cognitive load:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:** React.js, Tailwind CSS, Framer Motion, Axios.  
 **Backend:** Node.js, Express, MongoDB, JWT, Bcrypt.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Installation
 **Backend:**
